@@ -1,0 +1,102 @@
+# ==============================================================================
+# HARVARD CS50 AI — ACADEMIC HONESTY & SECURITY IGNORE RULES
+# In compliance with Harvard University's Academic Honesty Policy
+# (https://cs50.harvard.edu/ai/honesty/), official assignment solution source files,
+# distribution datasets, binary model artifacts, and archives are excluded from
+# public release to preserve pedagogical integrity.
+# ==============================================================================
+
+# Assessment Project Directories & Solution Source Code
+degrees/
+tictactoe/
+knights/
+minesweeper/
+pagerank/
+heredity/
+crossword/
+shopping/
+nim/
+traffic/
+parser/
+attention/
+
+# Python byte-code & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archives and Distribution packages
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Datasets, Models, and Weights
+*.csv
+*.tsv
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.pickle
+gtsrb/
+gtsrb.zip
+*.ppm
+
+# OS and Editor configurations
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables, credentials and secrets
+.env
+.env.*
+*.pem
+*.key
+*.token
+*.credential
+*.secret
+gh_token*
+gho_*
+credentials.json
+
+# Test traces and logs
+check50/
+submit50/
+.cs50*
+*.log
+scratch/
+.system_generated/
