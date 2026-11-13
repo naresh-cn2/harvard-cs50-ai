@@ -7,7 +7,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/transformers/)
 [![Status](https://img.shields.io/badge/Assignments-12%20%2F%2012%20Passed%20(100%25)-44CC11?style=for-the-badge&logo=checkmarx&logoColor=white)](#completion-statistics)
-[![Certificate](https://img.shields.io/badge/Verified%20Certificate-CS50%20AI-0052CC?style=for-the-badge&logo=credential&logoColor=white)](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5f7b)
+[![Certificate](https://img.shields.io/badge/Verified%20Certificate-CS50%20AI-0052CC?style=for-the-badge&logo=credential&logoColor=white)](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5ff7b)
 
 <br/>
 
@@ -50,9 +50,9 @@ Through 12 comprehensive programming assignments, students design, implement, an
 | **Issuing Authority** | Harvard University / Harvard Online / edX |
 | **Course** | CS50's Introduction to Artificial Intelligence with Python |
 | **Completion Date** | November 11, 2026 |
-| **Verification Portal** | [cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5f7b](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5f7b) |
-| **Direct Portal Link** | [certificates.cs50.io/693ef47a-6151-4545-9661-add787b5f7b](https://certificates.cs50.io/693ef47a-6151-4545-9661-add787b5f7b) |
-| **Academic Verification Key** | `693ef47a-6151-4545-9661-add787b5f7b` |
+| **Verification Portal** | [cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5ff7b](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5ff7b) |
+| **Direct Portal Link** | [certificates.cs50.io/693ef47a-6151-4545-9661-add787b5ff7b](https://certificates.cs50.io/693ef47a-6151-4545-9661-add787b5ff7b) |
+| **Academic Verification Key** | `693ef47a-6151-4545-9661-add787b5ff7b` |
 | **Reference File** | [`CERTIFICATE/certificate-reference.md`](CERTIFICATE/certificate-reference.md) |
 
 ---
@@ -210,7 +210,7 @@ In strict compliance with **Harvard University's Academic Honesty Policy**:
 - **Author**: **Bukya Naresh** ([@naresh-cn2](https://github.com/naresh-cn2))
 - **Institution**: Harvard University, Division of Continuing Education
 - **Instructors**: David J. Malan, Brian Yu
-- **Credential**: [CS50 AI Verified Certificate](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5f7b)
+- **Credential**: [CS50 AI Verified Certificate](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5ff7b)
 
 ---
 

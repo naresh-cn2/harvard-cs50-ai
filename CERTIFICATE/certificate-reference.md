@@ -15,9 +15,9 @@ This document confirms the official credential awarded for the successful comple
 | **Curriculum** | CS50's Introduction to Artificial Intelligence with Python |
 | **Completion Date** | November 11, 2026 |
 | **Assignments Completed** | 12 of 12 Projects (100% Score) |
-| **Certificate URL** | [cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5f7b](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5f7b) |
-| **Direct Verification Portal** | [certificates.cs50.io/693ef47a-6151-4545-9661-add787b5f7b](https://certificates.cs50.io/693ef47a-6151-4545-9661-add787b5f7b) |
-| **Academic Verification Key** | `693ef47a-6151-4545-9661-add787b5f7b` |
+| **Certificate URL** | [cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5ff7b](https://cs50.harvard.edu/certificates/693ef47a-6151-4545-9661-add787b5ff7b) |
+| **Direct Verification Portal** | [certificates.cs50.io/693ef47a-6151-4545-9661-add787b5ff7b](https://certificates.cs50.io/693ef47a-6151-4545-9661-add787b5ff7b) |
+| **Academic Verification Key** | `693ef47a-6151-4545-9661-add787b5ff7b` |
 
 ---
 
